@@ -1,0 +1,34 @@
+{
+  "id": "e1b85029-6ca4-418f-bfdb-700ae81bbb6d",
+  "name": "2474802016707_NguyenTrongTruc_GoRest_Env",
+  "values": [
+    {
+      "key": "baseUrl",
+      "value": "https://gorest.co.in/public/v2",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "token",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "userEmail",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "userId",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    }
+  ],
+  "color": null,
+  "_postman_variable_scope": "environment",
+  "_postman_exported_at": "2026-10-21T09:36:05.866Z",
+  "_postman_exported_using": "Postman/12.33.0"
+}
